@@ -1,7 +1,7 @@
 Hi 👋 My name is Matej Brezović
 ===============================
 
-Software Engineering Student @ FER
+Computer Science Student @ FER
 ----------------------------
 
 * 🌍  I'm based in Zagreb, Croatia
