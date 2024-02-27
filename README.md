@@ -1,11 +1,11 @@
 Hi 👋 My name is Matej Brezović
 ===============================
 
-Computer Science Student @ FER
+Student @ FER
 ----------------------------
 
 * 🌍  I'm based in Zagreb, Croatia
-* 📚  Currently studying Computer Science at <a href="https://www.fer.unizg.hr/en">University of Zagreb Faculty of Electrical Engineering and Computing</a>
+* 📚  Currently studying at <a href="https://www.fer.unizg.hr/en">University of Zagreb Faculty of Electrical Engineering and Computing</a>
 
 ### Skills
 
